@@ -380,10 +380,10 @@ This project is licensed under the **MIT License**.
 
 💻 Python Backend Developer
 
-🌍 Kerala, India
+🌍 Kochi,Kerala, India
 
-📧 Email: *(Add your email here)*
+📧 Email: *(ribinpsamu46@gmail.com)*
 
-🔗 LinkedIn: *(Add your LinkedIn profile here)*
+🔗 LinkedIn: *(www.linkedin.com/in/ribin-p-samu-772105314)*
 
 ⭐ If you like this project, please consider giving it a **Star ⭐** on GitHub.
